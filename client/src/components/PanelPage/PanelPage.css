@@ -1,0 +1,39 @@
+.content-row {
+    position: relative;
+    background-color: rgb(217, 249, 251);
+    width: 70%;
+    margin: auto;
+    padding: 20px 30px;
+    border-radius: 5px;
+
+    box-shadow: 5px 5px 0 rgb(87, 87, 87),
+                -5px -5px 0 #9faeaf;
+}
+
+table p {
+    font-weight: 800;
+}
+
+table thead {
+    color: gray;
+}
+
+.img-icon {
+    width: 25px;
+} 
+
+.myContainer {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #7b8a8b;
+    color: rgb(59, 54, 54);
+}
+
+.container-row {
+    min-height: 92vh;
+    padding-bottom: 140px;
+}
+
+.manipulation-link {
+    background: none;
+    border: none;
+}

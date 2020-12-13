@@ -1,0 +1,41 @@
+body{
+    background: rgb(44,62,80);
+}
+
+.home-container {
+    margin: auto;
+    background-color: white;
+    width: 500px;
+}
+
+ .home-title {
+     margin: auto;
+     color: rgb(255, 226, 226);
+    }
+    
+.home-title h1  {
+    border: 2px dotted white;
+    margin-top: 130px;
+    padding: 60px 0;
+}
+
+.home-title h1, .home-extra {
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.home-description {
+    color: white;
+    margin: auto;
+    text-indent: 10px;
+    margin-top: 80px;
+    font-size: larger;
+    line-height: 2rem;
+
+}
+
+.home-extra {
+    font-size: medium;
+    margin: auto;
+    color: white;
+}
